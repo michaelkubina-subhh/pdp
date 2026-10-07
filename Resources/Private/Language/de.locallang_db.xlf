@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de" datatype="plaintext" original="EXT:pdp/Resources/Private/Language/de.locallang_db.xlf" date="2026-06-01T11:55:00Z">
+    <header/>
+    <body>
+      <trans-unit id="tx_pdp_domain_model_document">
+        <source>Document</source>
+        <target>Dokument</target>
+      </trans-unit>
+      <trans-unit id="tx_pdp_domain_model_document.tabs.action">
+        <source>Action</source>
+        <target>Aktion</target>
+      </trans-unit>
+      <trans-unit id="tx_pdp_domain_model_document.title">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="tx_pdp_domain_model_document.author">
+        <source>Author</source>
+        <target>Autor</target>
+      </trans-unit>
+      <trans-unit id="tx_pdp_domain_model_document.year">
+        <source>Year</source>
+        <target>Jahr</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
