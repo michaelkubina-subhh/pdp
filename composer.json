@@ -1,0 +1,30 @@
+{
+	"name": "ameisenloewen/pdp",
+	"description": "Very primitive Policy Decision Point",
+	"license": "GPL-2.0-or-later",
+	"type": "typo3-cms-extension",
+	"authors": [
+		{
+			"name": "Marco Lengua",
+			"role": "developer"
+		},
+        {
+			"name": "Michael Kubina",
+			"role": "developer"
+		}
+	],
+	"require": {
+		"php": "^8.2",
+		"typo3/cms-core": "^13.4"
+	},
+	"autoload": {
+		"psr-4": {
+			"Ameisenloewen\\Pdp\\": "Classes/"
+		}
+	},
+	"extra": {
+		"typo3/cms": {
+			"extension-key": "pdp"
+		}
+	}
+}
